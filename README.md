@@ -13,4 +13,7 @@
 4. To run the demo files, please replace `dataset_path` with `train_dir` used in main files, and select any image from the dataset and replace `img_path` with its path.
 
 ## Data Preview:
+![A comparison between RGB and HSV. HSV format makes the patterns and edges more recognizable.](https://github.com/user-attachments/assets/a3811387-859a-4628-909f-a4a5868c216c)
+![Demonstration of tracing out the disease on the leaf.](https://github.com/user-attachments/assets/31fbeb85-f47f-4811-8b4e-c09be0f86f6d)
+![DiseaseHighlighted_2](https://github.com/user-attachments/assets/480a9c01-75cf-4d48-b50c-40f037ed6980)
 
