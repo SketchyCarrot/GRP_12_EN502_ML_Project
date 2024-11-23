@@ -1,5 +1,8 @@
 # ENHANCED PLANT DISEASE DETECTOR
-#### A model to recognize and classify plant diseases from examining the leaves carrying the disease. In this project, two models are trained with two different kinds of data. In 'main.ipynb' the image data used is in RGB format, and HSV in 'HSV_main.ipynb.' The aim is to maximize the accuracy of the model using two different kinds of color format and find out which one gives better results, and also highlight the part of the leaf carrying the disease.
+#### This project aims to recognize and classify plant diseases by analyzing leaf images. Two distinct models are trained using image data in different color formats:  
+#### **RGB Format** in `main.ipynb`  
+#### **HSV Format** in `HSV_main.ipynb`  
+#### The primary goal is to maximize the accuracy of the models while comparing the performance of these color formats to determine which is more effective. Additionally, the project includes a feature to visually highlight the diseased areas on the leaves for better interpretability.
 
 ## Dataset: https://www.kaggle.com/datasets/abdallahalidev/plantvillage-dataset
 
