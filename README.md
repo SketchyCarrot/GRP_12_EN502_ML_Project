@@ -18,3 +18,10 @@ Below is a comparison between RGB and HSV. HSV format makes the patterns and edg
 Demonstration of tracing out the disease on the leaf.
 ![Demonstration of tracing out the disease on the leaf.](https://github.com/user-attachments/assets/31fbeb85-f47f-4811-8b4e-c09be0f86f6d)
 
+## Results:
+The two models were trained with smooth convergence of both the graphs with minimal overfitting.
+![overfitting](https://github.com/user-attachments/assets/dd683bed-3873-41f4-8a9b-35ce59ee4aea)
+
+The `lime` library worked successfully in highlighting the disese bearing parts of the leaves.
+![tomatolateblight](https://github.com/user-attachments/assets/0c9c80c7-6233-43d0-883b-27c6968f52e2)
+![Tomato_late_blight](https://github.com/user-attachments/assets/9f8653b5-477a-4e9c-b64f-82f64760d0c2)
